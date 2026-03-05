@@ -1,18 +1,18 @@
 # ?? Hasta Takip Sistemi
 
-Gazi Hastanesi için geliþtirilmiþ, Windows Forms tabanlý bir **Hasta Takip ve Yönetim Sistemi**dir. Uygulama; hasta kayýtlarýnýn oluþturulmasý, listelenmesi, güncellenmesi ve silinmesi gibi temel CRUD iþlemlerini destekler. Kullanýcý giriþ ve kayýt sistemi ile yetkilendirme saðlanýr.
+ Windows Forms tabanlý bir **Hasta Takip ve Yönetim Sistemi**dir. Uygulama; hasta kayýtlarýnýn oluþturulmasý, listelenmesi, güncellenmesi ve silinmesi gibi temel CRUD iþlemlerini destekler. Kullanýcý giriþ ve kayýt sistemi ile yetkilendirme saðlanýr.
 
 ## ?? Ekran Görüntüleri
 
 ### Giriþ Ekraný
 Kullanýcý adý ve þifre ile sisteme giriþ yapýlýr. Kayýtlý olmayan kullanýcýlar "Kayýt Ol" butonu ile yeni hesap oluþturabilir.
 
-![Giriþ Ekraný](screenshots/giris-ekrani.png)
+![Giriþ Ekraný](hastaTakipSistemi/screenshots/giris-sayfa.png)
 
 ### Ana Sayfa - Hasta Yönetim Paneli
 Hasta bilgileri bu ekran üzerinden listelenir, yeni hasta kaydedilir, mevcut kayýtlar güncellenir veya silinir.
 
-![Ana Sayfa](screenshots/ana-sayfa.png)
+![Ana Sayfa](hastaTakipSistemi/screenshots/ana-ekran.png)
 
 ## ?? Özellikler
 
